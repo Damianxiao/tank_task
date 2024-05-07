@@ -25,8 +25,5 @@ public class MapLoader {
     }
         return new Map(map);
     }
-
-     
     
-
 }
